@@ -27,3 +27,8 @@ dist-ssr
 #github workflows
 .github/workflows/*
 *.yml
+
+# Docker temporaire
+docker-compose.yml
+docker-volume-*
+docker-compose.override.yml
